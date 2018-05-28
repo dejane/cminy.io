@@ -1,0 +1,12 @@
+btcz_stats = {
+    "id": 2,
+    "name": "BTCZ",
+    "price_usd": 0.00190731,
+    "price_eur": 0.0016380169011,
+    "price_btc": 2.6e-7,
+    "dificutly": 77284.452959706,
+    "networkhash": 5114453,
+    "block_time": 152,
+    "block_revard": 12500,
+    "last_update": "28.05.2018 18:03:05"
+}
